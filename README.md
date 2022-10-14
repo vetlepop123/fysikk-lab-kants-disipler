@@ -1,0 +1,2 @@
+# fysikk-lab-kants-disipler
+.
